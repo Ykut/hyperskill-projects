@@ -1,1 +1,1 @@
-# hyperskill-projects
+# hyperskill-projects SimpleChattyBot
